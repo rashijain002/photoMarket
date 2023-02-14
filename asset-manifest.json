@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/photoMarket/static/css/main.585c0b22.css",
+    "main.js": "/photoMarket/static/js/main.c7f65326.js",
+    "index.html": "/photoMarket/index.html",
+    "main.585c0b22.css.map": "/photoMarket/static/css/main.585c0b22.css.map",
+    "main.c7f65326.js.map": "/photoMarket/static/js/main.c7f65326.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.585c0b22.css",
+    "static/js/main.c7f65326.js"
+  ]
+}
